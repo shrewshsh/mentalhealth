@@ -168,6 +168,10 @@ body {
     font-weight: 500;
     padding: 6px 12px;
   }
+
+  #row{
+    padding-left: 20;
+  }
   
   #target {
     width: 345px;
