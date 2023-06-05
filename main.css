@@ -12,21 +12,25 @@ body {
 }
 .navbar {
     background:rgb(137,99,84);
+    font-family: 'Courier New', Courier, monospace;
 }
 .nav-link,
 .navbar-brand {
     color: #fff;
     cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
 }
 .nav-link {
     margin-right: 1em !important;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 .nav-link:hover {
     color: #000;
+    font-family: 'Courier New', Courier, monospace;
 }
 .navbar-collapse {
     justify-content: flex-end;
+    font-family: 'Courier New', Courier, monospace;
 }
 .header {
     background-image: url('EarthToneWallpaper.jpg');
