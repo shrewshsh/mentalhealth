@@ -20,6 +20,7 @@ body {
 }
 .nav-link {
     margin-right: 1em !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .nav-link:hover {
     color: #000;
