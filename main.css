@@ -4,9 +4,9 @@ body {
     background: #f2f6e9;
 }
 .logo-image{
-  width: 46px;
-  height: 46px;
-  border-radius: 50%;
+  width: 400px;
+  height: 240px;
+  border-radius: 0%;
   overflow: hidden;
   margin-top: -6px;
 }
