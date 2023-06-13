@@ -38,10 +38,6 @@ body {
     background-position: center;
     position: relative;
 }
-.nead_more {
-    text-align: center;
-    font-size: larger;
-}
 .overlay {
     position: absolute;
     min-height: 100%;
