@@ -4,8 +4,8 @@ body {
     background: #f2f6e9;
 }
 .logo-image{
-  width: 70px;
-  height: 68px;
+  width: 65px;
+  height: 60px;
   border-radius: 0%;
   overflow: hidden;
   margin-top: -6px;
@@ -200,7 +200,7 @@ body {
 .footer {
   position: relative;
   width: 100%;
-  background: #3586ff;
+  background: #896354;
   min-height: 100px;
   padding: 20px 50px;
   display: flex;
