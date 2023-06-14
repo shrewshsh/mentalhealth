@@ -131,7 +131,9 @@ body {
   #map #infowindow-content {
     display: inline;
   }
-  
+  .bruh{
+    align-items: center;
+  }
   .pac-card {
     background-color: #fff;
     border: 0;
